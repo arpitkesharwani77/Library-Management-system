@@ -18,18 +18,22 @@
 ## Screenshots 📃
 
 ### List Books
-![image](https://github.com/masai-course/satyam_kumar_cap04_153/assets/98641231/efb8e40e-3b41-4311-af43-dca12ace0ca3)
+![image](https://github.com/user-attachments/assets/dfeec117-d8ec-4a07-886f-f28a03c0aa71)
+
 
 
 ### Add New Book
-![image](https://github.com/masai-course/satyam_kumar_cap04_153/assets/98641231/ea3d97ec-b2dd-4712-ae78-7a2a649ae40f)
+![image](https://github.com/user-attachments/assets/d7f3da2f-ea9f-4ca3-894b-a82457e70e64)
+
 
 
 ### Book Details
-![image](https://github.com/masai-course/satyam_kumar_cap04_153/assets/98641231/7abe4b41-9699-42fc-b4d4-fa660a3e9e6e)
+![image](https://github.com/user-attachments/assets/d7f0100e-3642-4805-a701-42f1f07403df)
+
 
 ### Delete Book
-![image](https://github.com/masai-course/satyam_kumar_cap04_153/assets/98641231/c74c6491-ee64-4dfd-aebb-3d8b8fe8b56c)
+![image](https://github.com/user-attachments/assets/118edcba-55ba-4d65-bc3c-547f2e373d69)
+
 
 
 ## Technologies Used
